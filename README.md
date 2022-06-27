@@ -1,7 +1,7 @@
 
 ## About Me
 👋 Hi, I’m @pratikghaware Live in Virar, Maharashtra. 
--  Completed graduation in 2021 in specialization in Electronics and telecommunication Engineering. 
+-  Completed graduation in 2021 with a specialization in Electronics and telecommunication Engineering. 
 
 
 ## Interests
