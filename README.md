@@ -1,7 +1,7 @@
 
 ## About Me
 👋 Hi, I’m @pratikghaware Live in Virar, Maharashtra. 
--  Completed graduation 2021 in specialization in Electronics and telecommunication Engineering. 
+-  Completed graduation in 2021 in specialization in Electronics and telecommunication Engineering. 
 
 
 ## Interests
@@ -17,6 +17,8 @@
 
 
  - 📞 To reach me or Contact Use - 
+
+
  Linkedin - https://www.linkedin.com/in/pratik-ghaware-4917741b6/
 
 Email - pratikghaware21@gmail.com
@@ -24,6 +26,8 @@ Email - pratikghaware21@gmail.com
 ## Work and Projects
 
 - 👨‍💼`📊📈To see my work and projects - 
+
+
  github - https://github.com/pratikghaware
 
  Tableau - https://public.tableau.com/app/profile/pratik.suresh.ghaware
